@@ -9,5 +9,5 @@ end
 
 def print_first_directors_movie_titles
   element_index = 0
-  while directors_database[]
+  while directors_database[:movies]
 end
